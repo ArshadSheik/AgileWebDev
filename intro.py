@@ -1,3 +1,2 @@
 def myfvfood():
-    return ["apple"]
-return ["watermelon by:Tom"]
+    return ["apple", "banana"]
