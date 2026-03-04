@@ -1,2 +1,2 @@
 def myfvfood():
-    return []
+    return ["banana"]
